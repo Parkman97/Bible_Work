@@ -1,3 +1,28 @@
-{'data': {'query': 'love', 'limit': 10, 'offset': 0, 'total': 832, 'verseCount': 10, 'verses': [{'id': 'JHN.12.25', 'orgId': 'JHN.12.25', 'bookId': 'JHN', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': 'JHN.12', 'reference': 'John 12:25', 'text': "If you love your own life you will lose it, but if you don't love your own life in this world you will keep your life forever."}, {'id': 'SNG.6.3', 'orgId': 'SNG.6.3', 'bookId': 'SNG', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': 'SNG.6', 'reference': 'Song of Songs 6:3', 'text': "I am my love's, and my love is mine! He is the one who feeds among the lilies."}, {'id': '1CO.13.4', 'orgId': '1CO.13.4', 'bookId': '1CO', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': '1CO.13', 'reference': '1 Corinthians 13:4', 'text': 'Love is patient and kind. Love is not jealous. Love is not boastful. Love is not proud.'}, {'id': 'JHN.15.9', 'orgId': 'JHN.15.9', 'bookId': 'JHN', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': 'JHN.15', 'reference': 'John 15:9', 'text': 'As the Father loved me, so I have loved you. Remain in my love.'}, {'id': '1JN.4.19', 'orgId': '1JN.4.19', 'bookId': '1JN', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': '1JN.4', 'reference': '1 John 4:19', 'text': 'We 
-love because he loved us first.'}, {'id': 'LUK.6.32', 'orgId': 'LUK.6.32', 'bookId': 'LUK', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': 'LUK.6', 'reference': 'Luke 6:32', 'text': 'If you love those who love you, why should you deserve any credit for that? Even sinners love those who love them.'}, {'id': 'EPH.5.28', 'orgId': 'EPH.5.28', 'bookId': 'EPH', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': 'EPH.5', 'reference': 'Ephesians 5:28', 'text': 'Husbands should love their wives just like this, as they love their own bodies. A man who loves his wife loves himself—'}, {'id': 'ROM.13.10', 'orgId': 'ROM.13.10', 'bookId': 'ROM', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': 'ROM.13', 'reference': 'Romans 13:10', 'text': "Love doesn't do wrong to anyone, so love fulfils the law."}, {'id': '1JN.4.8', 'orgId': '1JN.4.8', 'bookId': '1JN', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': '1JN.4', 'reference': '1 John 4:8', 'text': "Those who don't love don't know God, for God is love."}, {'id': 'JHN.13.34', 'orgId': 'JHN.13.34', 'bookId': 'JHN', 'bibleId': '65eec8e0b60e656b-01', 'chapterId': 'JHN.13', 'reference': 'John 13:34', 'text': 'I am giving you a new command: Love one another. Love one another in the same way I 
-have loved you.'}]}, 'meta': {'fums': '<script>\nvar _BAPI=_BAPI||{};\nif(typeof(_BAPI.t)===\'undefined\'){\ndocument.write(\'\\x3Cscript src="\'+document.location.protocol+\'//cdn.scripture.api.bible/fums/fumsv2.min.js"\\x3E\\x3C/script\\x3E\');}\ndocument.write("\\x3Cscript\\x3E_BAPI.t(\'4c4db144-af35-43e3-823f-a404847b7c31\');\\x3C/script\\x3E");\n</script><noscript><img src="https://d3a2okcloueqyx.cloudfront.net/nf1?t=\'4c4db144-af35-43e3-823f-a404847b7c31\'" height="1" width="1" border="0" alt="" style="height: 0; width: 0;" /></noscript>', 'fumsId': '4c4db144-af35-43e3-823f-a404847b7c31', 'fumsJsInclude': 'cdn.scripture.api.bible/fums/fumsv2.min.js', 'fumsJs': "var _BAPI=_BAPI||{};if(typeof(_BAPI.t)!='undefined'){ _BAPI.t('4c4db144-af35-43e3-823f-a404847b7c31'); }", 'fumsNoScript': '<img src="https://d3btgtzu3ctdwx.cloudfront.net/nf1?t=4c4db144-af35-43e3-823f-a404847b7c31" height="1" width="1" border="0" alt="" style="height: 0; width: 0;" />'}}
+[Rom 1:8 KJV] 8 First, I thank my God through Jesus Christ for you all, that your faith is spoken of throughout the whole world.
+[Rom 1:8 NLT] 8 Let me say first that I thank my God through Jesus Christ for all of you, because your faith in him is being talked about all over the world.
+
+I thank - Rom 6:17
+through - Eph 3:21; Eph 5:20; Phl 1:11; Heb 13:15; 1Pe 2:5; 1Pe 4:11
+that your - Rom 16:19; 1Th 1:8,9
+the whole - Mat 24:14; Luk 2:1; Act 11:28
+
+I thank -
+[Rom 6:17 NLT] 17 Thank God! Once you were slaves of sin, but now you wholeheartedly obey this teaching we have given you.
+
+through -
+[Eph 3:21 NLT] 21 Glory to him in the church and in Christ Jesus through all generations forever and ever! Amen.
+[Eph 5:20 NLT] 20 And give thanks for everything to God the Father in the name of our Lord Jesus Christ.
+[Phl 1:11 NLT] 11 May you always be filled with the fruit of your salvation--the righteous character produced in your life by Jesus Christ--for this will bring much glory and praise to God.
+[Heb 13:15 NLT] 15 Therefore, let us offer through Jesus a continual sacrifice of praise to God, proclaiming our allegiance to his name.
+[1Pe 2:5 NLT] 5 And you are living stones that God is building into his spiritual temple. What's more, you are his holy priests. Through the mediation of Jesus Christ, you offer spiritual sacrifices that please God.
+[1Pe 4:11 NLT] 11 Do you have the gift of speaking? Then speak as though God himself were speaking through you. Do you have the gift of helping others? Do it with all the strength and energy that God supplies. Then everything you do will bring glory to God through Jesus Christ. All glory and power to him forever and ever! Amen.
+
+that your -
+[Rom 16:19 NLT] 19 But everyone knows that you are obedient to the Lord. This makes me very happy. I want you to be wise in doing right and to stay innocent of any wrong.
+[1Th 1:8-9 NLT] 8 And now the word of the Lord is ringing out from you to people everywhere, even beyond Macedonia and Achaia, for wherever we go we find people telling us about your faith in God. We don't need to tell them about it, 9 for they keep talking about the wonderful welcome you gave us and how you turned away from idols to serve the living and true God.
+
+the whole -
+[Mat 24:14 NLT] 14 And the Good News about the Kingdom will be preached throughout the whole world, so that all nations will hear it; and then the end will come.
+[Luk 2:1 NLT] 1 At that time the Roman emperor, Augustus, decreed that a census should be taken throughout the Roman Empire.
+[Act 11:28 NLT] 28 One of them named Agabus stood up in one of the meetings and predicted by the Spirit that a great famine was coming upon the entire Roman world. (This was fulfilled during the reign of Claudius.)
+
